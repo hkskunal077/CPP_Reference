@@ -1644,9 +1644,10 @@ if (file_bin.is_open())
 
 else {cout<<end<<"Unable to Open the file";}
 
-
-
-
+vector<int>v;
+set<int>s;
+map<string, int>map;
+bitset<32>b32;
 
 
 return EXIT_SUCCESS;
