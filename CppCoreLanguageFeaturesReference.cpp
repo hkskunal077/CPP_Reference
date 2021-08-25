@@ -39,6 +39,8 @@ namespace second {int xs= 6; float ys=6.6;}
 #undef TABLE_SIZE 
 #define TABLE_SIZE 100
 
+
+
 #elif TABLE_SIZE<50
 #undef TABLE_SIZE
 #define TABLE_SIZE 50 */
