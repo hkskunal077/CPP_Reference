@@ -16,7 +16,6 @@ int miniDist(int distance[], bool Tset[]) // finding minimum distance
     }
     return ind;
 }
-
 void DijkstraAlgo(int graph[6][6],int src) // adjacency matrix 
 {
     int distance[6]; // // array to calculate the minimum distance for each node                             
